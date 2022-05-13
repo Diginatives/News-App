@@ -31,9 +31,6 @@ class Header extends react.Component{
 
                 <div className="header-right">  
 
-                <a href="https://hamidstudio.com/" target="_blank" rel="noopener noreferrer"
-                style={{fontSize:"14px", fontWeight:"500", color:"rgb(68, 84, 110)", textDecoration: "none"}}>DEVELOPED BY HAMID</a>
-                <img src={require('./Linkind2.png').default} alt="" className="user-image"/>
                 
                 </div>
 
